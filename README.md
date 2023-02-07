@@ -20,7 +20,7 @@ Clone the repository
 
 Build Vivado project
 ```bash
-
+	vivado -mode batch -source build.tcl
 ```
 
 Lauch Vivado and open project in gui
